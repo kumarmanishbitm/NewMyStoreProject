@@ -1,0 +1,294 @@
+[INFO ] 2022-08-12 09:11:40.589 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 09:11:46.145 [main] NewMyStoreProj - Clicked on Create an account button successfully.
+[INFO ] 2022-08-12 09:14:30.915 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 09:14:35.960 [main] NewMyStoreProj - Clicked on Create an account button successfully.
+[INFO ] 2022-08-12 09:15:37.156 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 09:15:51.571 [main] NewMyStoreProj - Clicked on Create an account button successfully.
+[INFO ] 2022-08-12 09:15:59.599 [main] NewMyStoreProj - Entered all required details for Registration.
+[INFO ] 2022-08-12 09:16:08.908 [main] NewMyStoreProj - Registration Success
+[INFO ] 2022-08-12 09:41:45.593 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 09:41:51.773 [main] NewMyStoreProj - Clicked on Create an account button successfully.
+[INFO ] 2022-08-12 09:41:58.303 [main] NewMyStoreProj - Entered all required details for Registration.
+[INFO ] 2022-08-12 09:42:10.388 [main] NewMyStoreProj - Registration Success
+[INFO ] 2022-08-12 10:19:42.050 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 10:19:54.060 [main] NewMyStoreProj - VerifyLogin - Failed
+[INFO ] 2022-08-12 10:27:48.917 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 10:27:55.071 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 10:27:55.283 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 10:28:04.866 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 10:28:04.964 [main] NewMyStoreProj - VerifyLogin - Failed
+[INFO ] 2022-08-12 10:31:32.272 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 10:31:46.947 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 10:31:47.183 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 10:31:59.682 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 10:31:59.739 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-12 10:48:16.541 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 10:48:36.292 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 10:48:36.521 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 10:48:47.402 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 10:48:47.487 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-12 10:54:09.713 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 10:54:16.088 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 10:54:16.309 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 10:54:19.378 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 10:54:19.448 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-12 21:11:51.628 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 21:11:58.798 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 21:11:58.983 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 21:12:04.517 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 21:12:04.862 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-12 21:14:46.670 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-12 21:14:55.266 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-12 21:14:55.463 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-12 21:14:58.884 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-12 21:14:58.936 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 07:59:01.927 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 08:01:26.882 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 08:01:37.937 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-13 08:01:38.158 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-13 08:01:41.491 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-13 08:01:41.553 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 08:01:41.553 [main] NewMyStoreProj - ***************TestCase Verify login ends*****************
+[INFO ] 2022-08-13 08:21:20.306 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 08:21:27.875 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-13 08:21:28.100 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-13 08:21:31.290 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-13 08:21:31.350 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 08:21:34.991 [main] NewMyStoreProj - Clicked on Logout button successfully.
+[INFO ] 2022-08-13 08:21:34.991 [main] NewMyStoreProj - ***************TestCase Verify login ends*****************
+[INFO ] 2022-08-13 08:21:38.730 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-13 08:21:38.902 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-13 08:21:42.630 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-13 08:21:42.690 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 08:21:46.731 [main] NewMyStoreProj - Clicked on Logout button successfully.
+[INFO ] 2022-08-13 08:21:46.731 [main] NewMyStoreProj - ***************TestCase Verify login ends*****************
+[INFO ] 2022-08-13 10:04:35.000 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 10:05:55.384 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 10:06:04.125 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-13 10:06:04.320 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-13 10:06:08.799 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-13 10:06:08.868 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 10:06:14.490 [main] NewMyStoreProj - Clicked on Logout button successfully.
+[INFO ] 2022-08-13 10:06:14.491 [main] NewMyStoreProj - ***************TestCase Verify login ends*****************
+[INFO ] 2022-08-13 10:06:17.245 [main] NewMyStoreProj - Email id entered
+[INFO ] 2022-08-13 10:06:17.423 [main] NewMyStoreProj - Password entered
+[INFO ] 2022-08-13 10:06:21.517 [main] NewMyStoreProj - Clicked on Login Button
+[INFO ] 2022-08-13 10:06:21.589 [main] NewMyStoreProj - VerifyLogin - Passed
+[INFO ] 2022-08-13 10:06:26.172 [main] NewMyStoreProj - Clicked on Logout button successfully.
+[INFO ] 2022-08-13 10:06:26.173 [main] NewMyStoreProj - ***************TestCase Verify login ends*****************
+[INFO ] 2022-08-13 10:17:56.436 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 10:17:56.467 [main] NewMyStoreProj - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-08-13 10:18:01.845 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-13 10:18:05.256 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-13 10:18:11.026 [main] NewMyStoreProj - Search Product testcase - Passed
+[INFO ] 2022-08-13 10:18:14.080 [main] NewMyStoreProj - ***************TestCase Search Product ends*****************
+[INFO ] 2022-08-13 13:04:58.572 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 13:04:58.620 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-13 13:04:58.909 [main] NewMyStoreProj - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-08-13 13:06:03.661 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 13:06:03.703 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-13 13:06:17.222 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-13 13:06:21.601 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-13 13:06:21.769 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-13 13:06:27.473 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-13 13:06:37.634 [main] NewMyStoreProj - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-08-13 13:09:05.730 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-13 13:09:05.767 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-13 13:09:12.170 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-13 13:09:15.993 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-13 13:09:16.145 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-13 13:09:22.519 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-13 13:09:38.474 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-13 13:09:42.720 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-13 13:09:43.004 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-13 13:09:43.172 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-13 13:09:48.695 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-13 13:09:53.045 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-13 13:09:57.114 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-13 13:09:57.282 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-13 13:10:00.742 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-13 13:10:00.763 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-13 13:10:04.861 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-13 13:10:09.662 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-13 13:10:09.725 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-13 13:10:15.218 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-15 21:33:53.387 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-15 21:33:53.419 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-15 21:34:06.279 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-15 21:34:14.288 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-15 21:34:14.797 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-15 21:34:22.923 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-15 21:37:38.101 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-15 21:37:38.141 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-15 21:37:43.816 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-15 21:37:47.877 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-15 21:37:48.043 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-15 21:37:54.757 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-15 21:38:12.612 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-15 21:38:16.772 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-15 21:38:16.974 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-15 21:38:17.081 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-15 21:38:28.245 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-15 21:38:32.889 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-15 21:38:36.553 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-15 21:38:36.676 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-15 21:38:42.608 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-15 21:38:42.624 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-15 21:38:51.273 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-15 21:39:09.420 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-15 21:39:09.476 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-15 21:39:25.216 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 09:16:51.163 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 09:16:51.197 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 09:16:58.024 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 09:17:01.218 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 09:17:01.364 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 09:17:06.392 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 09:20:48.883 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 09:20:48.917 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 09:20:54.427 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 09:20:57.990 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 09:20:58.157 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 09:21:05.901 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 09:21:15.814 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-16 09:21:20.061 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-16 09:21:20.321 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-16 09:21:20.471 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-16 09:21:26.577 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 09:21:30.186 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 09:21:36.960 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 09:21:37.097 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-16 09:21:40.600 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 09:21:40.613 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 09:21:42.946 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-16 09:21:46.531 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-16 09:21:46.581 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 09:21:51.104 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 09:59:41.476 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 09:59:41.514 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 09:59:48.370 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 09:59:54.774 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 09:59:55.005 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 10:00:03.295 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 10:05:35.600 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 10:05:35.671 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 10:39:13.175 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 10:39:13.223 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 10:39:21.934 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 10:39:26.596 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 10:39:26.737 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 10:39:32.662 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 10:39:43.633 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-16 10:39:47.848 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-16 10:39:48.088 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-16 10:39:48.208 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-16 10:39:55.261 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 10:39:59.653 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 10:40:06.967 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 10:40:07.116 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-16 10:40:12.276 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 10:40:12.300 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 10:40:14.451 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-16 10:40:19.174 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-16 10:40:19.245 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 10:40:30.861 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 11:41:50.541 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 11:41:50.589 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 11:41:55.578 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 11:41:59.909 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 11:42:00.053 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 11:42:06.106 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 11:45:12.858 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 11:45:12.906 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 11:45:18.746 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 11:45:26.227 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 11:45:26.424 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 11:45:31.606 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 11:49:37.603 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 11:49:37.640 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 11:49:43.600 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 11:49:48.435 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-16 11:49:48.594 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-16 11:49:59.994 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-16 11:50:17.284 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-16 11:50:21.466 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-16 11:50:21.745 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-16 11:50:21.899 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-16 11:50:34.665 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-16 11:50:41.767 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-16 11:50:44.271 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-16 11:50:44.372 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-16 11:50:49.042 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-16 11:50:49.059 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-16 11:50:52.305 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-16 11:50:56.254 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-16 11:50:56.297 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-16 11:51:02.230 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-16 14:35:21.658 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-16 14:35:21.706 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-16 14:35:48.682 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-16 14:35:49.941 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-17 10:34:02.357 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-17 10:34:02.456 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 10:34:24.848 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-17 10:34:47.891 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-17 10:34:48.048 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-17 10:35:04.255 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-17 10:35:24.494 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-17 10:35:28.777 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-17 10:35:29.029 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-17 10:35:29.125 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-17 10:35:43.648 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-17 10:35:47.539 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-17 10:35:50.330 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-17 10:35:50.474 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-17 10:35:53.248 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-17 10:35:53.272 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-17 10:35:55.256 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-17 10:35:59.415 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-17 10:35:59.515 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-17 10:36:03.607 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-08-17 10:39:06.237 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-17 10:39:06.285 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 10:39:11.583 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-17 10:39:17.189 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-17 10:52:04.446 [main] NewMyStoreProj - url openned
+[INFO ] 2022-08-17 10:52:04.478 [main] NewMyStoreProj - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-08-17 10:52:11.330 [main] NewMyStoreProj - User Email and Password entered.
+[INFO ] 2022-08-17 10:52:21.705 [main] NewMyStoreProj - Sign In link clicked
+[INFO ] 2022-08-17 10:52:21.804 [main] NewMyStoreProj - T-shirt entered in search box
+[INFO ] 2022-08-17 10:52:27.770 [main] NewMyStoreProj - clicked on search button
+[INFO ] 2022-08-17 10:52:44.394 [main] NewMyStoreProj - Clicked on more button
+[INFO ] 2022-08-17 10:52:48.754 [main] NewMyStoreProj - quantity 2 entereed
+[INFO ] 2022-08-17 10:52:49.293 [main] NewMyStoreProj - size M entered
+[INFO ] 2022-08-17 10:52:49.405 [main] NewMyStoreProj - Clicked on add to cart
+[INFO ] 2022-08-17 10:52:55.858 [main] NewMyStoreProj - Clicked on proceed to checkout on product page
+[INFO ] 2022-08-17 10:53:00.354 [main] NewMyStoreProj - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-08-17 10:53:02.839 [main] NewMyStoreProj - Clicked on proceed to checkout on order address page
+[INFO ] 2022-08-17 10:53:03.103 [main] NewMyStoreProj - selecged term of service check box
+[INFO ] 2022-08-17 10:53:09.489 [main] NewMyStoreProj - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-08-17 10:53:09.505 [main] NewMyStoreProj - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-08-17 10:53:14.666 [main] NewMyStoreProj - Clicked on pay by cheque
+[INFO ] 2022-08-17 10:53:20.222 [main] NewMyStoreProj - Clicked on confirmed order
+[INFO ] 2022-08-17 10:53:20.334 [main] NewMyStoreProj - VerifyBuyProduct - Passed
+[INFO ] 2022-08-17 10:53:33.938 [main] NewMyStoreProj - ***************TestCase BuyProduct ends*****************
